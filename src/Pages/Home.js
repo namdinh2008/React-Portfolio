@@ -1294,7 +1294,6 @@ const Home = () => {
                         <a
                           href="https://sanajitjana.github.io"
                           target="_blank"
-                          rel="noreferrer"
                           style={{
                             color: "black",
                             textDecoration: "none",
